@@ -5,6 +5,7 @@ int main(){
     printf("%d",n);
     prntf("Printing the value");
     printf("hi");
+    printf("How are you");
     //comment line
 
 }
